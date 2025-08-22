@@ -247,7 +247,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 **Author**
 
-**Fahmidur Islam Swapnil**
+**Fahmidur Iqbal Swapnil**
 - GitHub: [@AFK-Swap](https://github.com/AFK-Swap)
 - Email: fahmidur.i.swapnil@gmail.com
 - University: BRAC University
