@@ -3,9 +3,6 @@
 
 A comprehensive parking management system developed in x86 Assembly Language, featuring multi-vehicle support, dynamic pricing, and an intuitive console interface.
 
-## 🚀 **Demo**
-*Console-based application with animated interface*
-
 ## 📋 **Table of Contents**
 - [Features](#features)
 - [Technology Stack](#technology-stack)
@@ -241,17 +238,12 @@ CALCULATE_FEE ENDP
 4. Push to the branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
-## 📝 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 **Author**
 
 **Fahmidur Iqbal Swapnil**
 - GitHub: [@AFK-Swap](https://github.com/AFK-Swap)
 - Email: fahmidur.i.swapnil@gmail.com
 - University: BRAC University
-- Student ID: 22101227
 
 ## 🙏 **Acknowledgments**
 
